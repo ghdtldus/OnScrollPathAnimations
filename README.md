@@ -1,6 +1,6 @@
 # On-Scroll SVG Path Animations
 
-Animating SVG paths on smooth scroll.
+Animating SVG paths on smooth scroll..
 
 ![Image Title](https://tympanus.net/codrops/wp-content/uploads/2022/06/OnScrollShapeAnimation_feat.jpg)
 
